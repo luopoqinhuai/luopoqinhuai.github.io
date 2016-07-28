@@ -3,7 +3,7 @@ layout: post
 comments: true
 categories: java
 ---
-#First One
+
 ![](http://7u2rnt.com1.z0.glb.clouddn.com/collection.png)
 
 
