@@ -15,8 +15,7 @@ viewsourceroot: https://github.com/luopoqinhuai/luopoqinhuai.github.io/blob/mast
 # this is the url root of the create page link on the footer page.
 newsourceroot: https://github.com/luopoqinhuai/
 #########################################
-disqus_shortname: reno
-disqus_url: "http://luopoqinhuai.github.io"
+
 #########################################
 
 # Build settings

@@ -2,6 +2,6 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## 欢迎来到Reno的博客
 
-I just start now.
+这是Reno写字的地方
