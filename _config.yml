@@ -7,7 +7,7 @@ description: Reno's Blogs
 github_username: luopoqinhuai
 permalink: /:year/:month/:day/:title/
 
-baseurl: "/"
+
 
 # this is the url root of the view source link on the footer page.
 viewsourceroot: https://github.com/luopoqinhuai/luopoqinhuai.github.io/blob/master/
