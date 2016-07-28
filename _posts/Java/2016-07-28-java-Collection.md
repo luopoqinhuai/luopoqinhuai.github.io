@@ -6,7 +6,7 @@ categories: java
 
 # Java Collection
 
-![](https://raw.githubusercontent.com/luopoqinhuai/luopoqinhuai.github.io/master/_posts/java/collection.png)
+![](http://7u2rnt.com1.z0.glb.clouddn.com/collection.png)
 
 
 最近打算复习复习JDK中的集合框架，并尝试分析其源码，这么做一方面是这些类非常实用，掌握其实现能更好的优化我们的程序；另一方面是学习借鉴JDK是如何实现了这么一套优雅高效的类库，提升编程能力。
@@ -43,7 +43,7 @@ categories: java
 
 
 ##Collection
-![](https://raw.githubusercontent.com/luopoqinhuai/luopoqinhuai.github.io/master/_posts/java/collection2.jpg)
+![](http://7u2rnt.com1.z0.glb.clouddn.com/collection2.jpg)
 
 如上图所示，Collection类主要有三个接口：
 
@@ -54,7 +54,7 @@ categories: java
 
 
 ##Map
-![](https://raw.githubusercontent.com/luopoqinhuai/luopoqinhuai.github.io/master/_posts/java/Map.jpg)
+![](http://7u2rnt.com1.z0.glb.clouddn.com/Map.jpg)
 
 Map并不是一个真正意义上的集合（are not true collections），但是这个接口提供了三种“集合视角”（collection views ），使得可以像操作集合一样操作它们，具体如下：
 
