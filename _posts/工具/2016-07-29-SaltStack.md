@@ -4,7 +4,7 @@ comments: true
 categories: 工具
 ---
 
-##Saltstack介绍
+#Saltstack介绍
 Saltstack是一个新的基础设施管理工具。目前处于快速发展阶段，可以看做是强化的Func+弱化的Puppet的组合。间接的反映出了saltstack的两大功能：**远程执行**和**配置管理**。
   
 Saltstack使用Python开发的，非常简单易用和轻量级的管理工具。由Master和Minion构成，通过ZeroMQ进行通信。
