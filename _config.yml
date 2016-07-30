@@ -20,7 +20,7 @@ newsourceroot: https://github.com/luopoqinhuai/
 markdown: kramdown
 
 # highlight
-highlighter: pygments
+#highlighter: pygments
 # highlighter: rouge
 # highlighter: false
 port: 5001
