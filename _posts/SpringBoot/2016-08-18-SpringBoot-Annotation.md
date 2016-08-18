@@ -64,7 +64,7 @@ categories: SpringBoot
 ### @SpringBootApplication 
 > 相当于@EnableAutoConfiguration、@ComponentScan和@Configuration的合集。
 
-
+  
 ### @Import 
 > 用来导入其他配置类。
 
